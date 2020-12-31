@@ -23,11 +23,6 @@ img {
   width: 100%;
   height: auto;
 }
-
-figure {
-  width: 100%;
-  height: auto;
-}
 	
 /* Below for individual pages */
 div.title {
@@ -46,7 +41,7 @@ font-family: calibri,arial;
 	
   div.crew {
  padding-left: 70px;
-      width: 500px;
+      padding-right: 70px;
 font-family: calibri,arial;
   text-align: left;
   font-size: 16px;
