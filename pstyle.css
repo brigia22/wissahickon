@@ -45,7 +45,7 @@ img {
   height: auto;
 }
 	
-/* Below for individual pages */
+/* pages */
 div.title {
 font-family: gabriola,calibri,arial;
   text-align: center;
@@ -92,7 +92,7 @@ div.pname {
 div.menu {
   position: fixed;
   left: 40%;
-  top: 10%;
+  top: 20%;
 text-align: center;
   font-family: calibri,arial;
   font-size: 20px;
