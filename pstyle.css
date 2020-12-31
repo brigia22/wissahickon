@@ -48,6 +48,21 @@ font-family: calibri,arial;
   color: white;
 }
 
+.row {
+  display: flex;
+  text-align: center;
+  font-size: 16px;
+  color: white;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+  text-align: center;
+  font-size: 16px;
+  color: white;
+}
+
 div.inli {
   position: fixed;
   left: 6%;
