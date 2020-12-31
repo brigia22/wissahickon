@@ -40,7 +40,7 @@ font-family: calibri,arial;
 }
 	
   div.crew {
-	  position: relative;
+position: absolute;
   left: 30%;
   right: 30%;
 font-family: calibri,arial;
