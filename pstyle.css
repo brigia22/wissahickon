@@ -80,5 +80,5 @@ text-align: center;
 div.mimg {
   position: fixed;
   left: 25%;
-  top: 10%;
+  bottom: 10%;
 }
