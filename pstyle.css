@@ -50,11 +50,11 @@ font-family: calibri,arial;
 
 div.inli {
   position: fixed;
-  left: 1%;
+  left: 5%;
   top: 15%;
 }
 
-div.name {
+div.pname {
   position: fixed;
   left: 35%;
   top: 1%;
