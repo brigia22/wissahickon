@@ -40,8 +40,9 @@ font-family: calibri,arial;
 }
 	
   div.crew {
- padding-left: 70px;
-      padding-right: 70px;
+ position: fixed;
+  left: 10%;
+  right: 10%;
 font-family: calibri,arial;
   text-align: left;
   font-size: 16px;
