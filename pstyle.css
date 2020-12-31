@@ -18,6 +18,11 @@ body {
   padding-bottom: 5%;
   background-color: #295477;
 }
+
+img {
+  width: 100%;
+  height: auto;
+}
 	
 /* Below for individual pages */
 div.title {
@@ -63,8 +68,8 @@ div.menu {
 text-align: center;
 }
 	
-img {
-position: fixed;
+div.mimg {
+	position: fixed;
   left: 25%;
   bottom: 15%;
   width: 100%;
