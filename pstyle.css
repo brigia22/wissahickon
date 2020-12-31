@@ -1,3 +1,5 @@
+/* Below for all pages */
+
 a:link {color: white;text-decoration: none;
 	border-bottom: 0px dashed black;}
 a:visited {color: white;text-decoration: none;
@@ -17,6 +19,7 @@ body {
   background-color: #295477;
 }
 	
+/* Below for individual pages */
 div.title {
 font-family: gabriola,calibri,arial;
   text-align: center;
@@ -38,4 +41,32 @@ font-family: calibri,arial;
   text-align: left;
   font-size: 16px;
   color: white;
+}
+
+div.inli {
+  position: fixed;
+  left: 1%;
+  top: 15%;
+}
+
+/* Below for menu */
+div.name {
+  position: absolute;
+  left: 10%;
+  top: 10%;
+}
+   
+div.menu {
+  position: fixed;
+  left: 40%;
+  top: 10%;
+text-align: center;
+}
+	
+img {
+position: fixed;
+  left: 25%;
+  bottom: 15%;
+  width: 100%;
+  height: auto;
 }
