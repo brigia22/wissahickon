@@ -54,6 +54,12 @@ div.inli {
   top: 15%;
 }
 
+div.name {
+  position: fixed;
+  left: 25%;
+  top: 5%;
+}
+
 /* Below for menu */
 div.name {
   position: absolute;
