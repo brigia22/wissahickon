@@ -53,6 +53,8 @@ font-family: gabriola,calibri,arial;
   }
 	
 div.stuff {
+	padding-right: 7%;
+  padding-left: 7%;
 font-family: calibri,arial;
   text-align: left;
   font-size: 18px;
