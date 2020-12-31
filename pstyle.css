@@ -21,14 +21,14 @@ body {
 }
 
 #inline {
-  background-image: url("pbackinli.jpg");
+  background-image: url("pbackground.jpg");
   background-attachment: fixed;
   padding-top: 3%;
   padding-right: 10%;
   padding-left: 10%;
   padding-bottom: 5%;
   background-color: #295477;
-  font-color: black;
+  font-color: white;
 }
 
 #inline a:link {color: black;text-decoration: none;
