@@ -40,8 +40,8 @@ font-family: calibri,arial;
 }
 	
   div.crew {
-  left: 20%;
-  right: 20%;
+  left: 30%;
+  right: 30%;
 font-family: calibri,arial;
   text-align: left;
   font-size: 16px;
@@ -61,11 +61,6 @@ div.pname {
 }
 
 /* Below for menu */
-div.name {
-  position: absolute;
-  left: 10%;
-  top: 10%;
-}
    
 div.menu {
   position: fixed;
