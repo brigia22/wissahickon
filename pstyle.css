@@ -23,6 +23,11 @@ img {
   width: 100%;
   height: auto;
 }
+
+figure {
+  width: 100%;
+  height: auto;
+}
 	
 /* Below for individual pages */
 div.title {
