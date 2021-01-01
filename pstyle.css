@@ -21,10 +21,10 @@ body {
 }
 
 hr.dash {
-	height: 1px dashed white;
-	border-width: 0;
-	color: white;
-	background-color: white
+	border-top: 1px dashed white;
+  border-width:1;
+  color:#28557F;
+  background-color:#28557F;
 }
 
 #inline {
