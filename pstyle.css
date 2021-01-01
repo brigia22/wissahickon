@@ -21,10 +21,8 @@ body {
 }
 
 hr.dash {
-	border-top: 1px dashed white;
-  border-width:1;
-  color:#28557F;
-  background-color:#28557F;
+	border: 1px dashed white;
+  size: 1px;
 }
 
 #inline {
