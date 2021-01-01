@@ -20,6 +20,10 @@ body {
   color: white;
 }
 
+hr.dash {
+  border-top: 1px dashed white;
+}
+
 #inline {
   background-image: url("pbackground.jpg");
   background-attachment: fixed;
