@@ -21,8 +21,9 @@ body {
 }
 
 hr.dash {
-	border: 1px dashed white;
-  size: 1px;
+	border-top: 1px dashed white; 
+  height: 1px; 
+  border-bottom: 0px;
 }
 
 #inline {
