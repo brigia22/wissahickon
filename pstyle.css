@@ -1,12 +1,12 @@
-/* Below for all pages */
+/* all pages */
 
-a:link {color: white;text-decoration: none;
+a:link {color: #BAC8D6;text-decoration: none;
 	border-bottom: 0px dashed black;}
-a:visited {color: white;text-decoration: none;
+a:visited {color: #BAC8D6;text-decoration: none;
 	border-bottom: 0px dashed black;}
-a:hover { color: #78AFDE;text-decoration: none;
+a:hover { color: white;text-decoration: none;
 	border-bottom: 0px dashed;}
-a:active {color: #78AFDE;text-decoration: none;
+a:active {color: white;text-decoration: none;
 	border-bottom: 0px dashed;}
   
 body {
@@ -31,13 +31,13 @@ body {
   color: white;
 }
 
-#inline a:link {color: white;text-decoration: none;
+#inline a:link {color: #BAC8D6;text-decoration: none;
 	border-bottom: 0px dashed black;}
-#inline a:visited {color: white;text-decoration: none;
+#inline a:visited {color: #BAC8D6;text-decoration: none;
 	border-bottom: 0px dashed black;}
-#inline a:hover { color: #78AFDE;text-decoration: none;
+#inline a:hover { color: white;text-decoration: none;
 	border-bottom: 0px dashed;}
-#inline a:active {color: #78AFDE;text-decoration: none;
+#inline a:active {color: white;text-decoration: none;
 	border-bottom: 0px dashed;}
 
 img {
@@ -45,7 +45,7 @@ img {
   height: auto;
 }
 	
-/* pages */
+/* individual pages */
 div.title {
 font-family: gabriola,calibri,arial;
   text-align: center;
