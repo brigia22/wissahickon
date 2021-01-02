@@ -89,11 +89,17 @@ div.inli {
   top: 15%;
 }
 
-/* name image on main page */
+/* images on main page */
 div.pname {       
-  position: fixed;
+  position: absolute;
   left: 30%;
   top: 5%;
+}
+
+div.season {       
+  position: relative;
+  left: 5%;
+  top: 0%;
 }
 
 /* menu */
