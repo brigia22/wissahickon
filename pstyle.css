@@ -91,15 +91,15 @@ div.inli {
 
 /* images on main page */
 div.pname {       
-  position: absolute;
+  position: fixed;
   left: 30%;
   top: 5%;
 }
 
 div.season {       
-  position: relative;
-  left: 5%;
-  top: 0%;
+  position: fixed;
+  left: 40%;
+  top: 10%;
 }
 
 /* menu */
