@@ -13,8 +13,8 @@ body {
   background-image: url("pbackground.jpg");
   background-attachment: fixed;
   padding-top: 3%;
-  padding-right: 10%;
-  padding-left: 10%;
+  padding-right: 5%;
+  padding-left: 5%;
   padding-bottom: 5%;
   background-color: #295477;
   color: white;
@@ -59,8 +59,8 @@ font-family: gabriola,calibri,arial;
   }
 	
 div.stuff {
-	padding-right: 7%;
-  padding-left: 7%;
+	padding-right: 5%;
+  padding-left: 5%;
 font-family: calibri,arial;
   text-align: left;
   font-size: 16px;
