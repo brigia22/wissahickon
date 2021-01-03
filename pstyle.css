@@ -80,12 +80,7 @@ font-family: calibri,arial;
   font-size: 16px;
   }
 
-figure {
-  display: table;
-}
-
 figcaption {
-  display: table-caption;
   caption-side: right;
 }
 
