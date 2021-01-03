@@ -50,6 +50,12 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+img.bemo {
+  border: 1px dashed white;
+	max-width: 100%;
+  height: auto;
+}
 	
 /* individual pages */
 div.title {
