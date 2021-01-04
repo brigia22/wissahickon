@@ -91,6 +91,13 @@ div.inli {
 }
 
 /* images on main page */
+
+img.accent {
+	 position: fixed;
+  left: 2%;
+  top: 5%;
+}
+	
 div.pname {       
   position: fixed;
   left: 10%;
