@@ -23,6 +23,7 @@ body {
 hr.dash {
 	border-top: 1px dashed white; 
   height: 1px; 
+	width: 150px;
   border-bottom: 0px;
 }
 
