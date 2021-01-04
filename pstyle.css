@@ -86,8 +86,9 @@ figcaption {
 
 div.inli {
   position: fixed;
-  left: 6%;
-  top: 15%;
+  left: 7%;
+  top: 17%;
+	bottom: 5%;
 }
 
 /* images on main page */
@@ -95,12 +96,12 @@ div.inli {
 img.accent {
 	 position: fixed;
   left: 2%;
-  top: 5%;
+  top: 1%;
 }
 	
 div.pname {       
   position: fixed;
-  left: 10%;
+  left: 20%;
   top: 5%;
 }
 
