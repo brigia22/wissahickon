@@ -93,13 +93,13 @@ div.inli {
 /* images on main page */
 div.pname {       
   position: fixed;
-  left: 20%;
+  left: 10%;
   top: 5%;
 }
 
 div.season {       
   position: fixed;
-  left: 45%;
+  left: 50%;
   top: 10%;
 }
 
