@@ -1,9 +1,9 @@
 /* all pages */
 
-a:link {color: #BAC8D6;text-decoration: none;
+a:link {color: #B39C3F;text-decoration: none;
 	font-weight: bold;
 	border-bottom: 0px dashed black;}
-a:visited {color: #BAC8D6;text-decoration: none;
+a:visited {color: #B39C3F;text-decoration: none;
 	font-weight: bold;
 	border-bottom: 0px dashed black;}
 a:hover { color: white;text-decoration: none;
@@ -20,31 +20,29 @@ body {
   padding-right: 5%;
   padding-left: 5%;
   padding-bottom: 5%;
-  background-color: #295477;
-  color: white;
+  background-color: #CDC4BD;
+  color: #344D76;
 }
 
 hr.dash {
-	border-top: 1px dashed white; 
+	border-top: 1px dashed #344D76; 
   height: 1px; 
 	width: 200px;
   border-bottom: 0px;
 }
 
 #inline {
-  background-image: url("pbackground.jpg");
-  background-attachment: fixed;
   padding-top: 1%;
   padding-right: 10%;
   padding-left: 10%;
   padding-bottom: 5%;
-  background-color: #295477;
-  color: white;
+  background-color: #CDC4BD;
+  color: #344D76;
 }
 
-#inline a:link {color: #BAC8D6;text-decoration: none;
+#inline a:link {color: #CDC4BD;text-decoration: none;
 	border-bottom: 0px dashed black;}
-#inline a:visited {color: #BAC8D6;text-decoration: none;
+#inline a:visited {color: #CDC4BD;text-decoration: none;
 	border-bottom: 0px dashed black;}
 #inline a:hover { color: white;text-decoration: none;
 	border-bottom: 0px dashed;}
@@ -57,7 +55,7 @@ img {
 }
 
 img.bemo {
-  border: 1px dashed white;
+  border: 1px dashed #344D76;
 	max-width: 100%;
   height: auto;
 }
@@ -124,7 +122,7 @@ div.menu {
 text-align: center;
   font-family: calibri,arial;
   font-size: 20px;
-  color: white;
+  color: #344D76;
 }
 	
 div.mimg {
